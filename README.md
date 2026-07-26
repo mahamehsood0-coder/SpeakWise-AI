@@ -97,17 +97,21 @@ Analyze the user's response carefully and provide grammar corrections, vocabular
 2. Install dependencies:
 
 ```bash
-
 npm install
+```
 
-Create a .env file and add:
+3. Create a `.env` file and add:
 
+```env
 GEMINI_API_KEY=your_api_key_here
+```
 
-Start the development server:
+4. Start the development server:
 
+```bash
 npm run dev
+```
 
 ## Project Repository
 
-https://github.com/mahamehsood0-coder/SpeakWise-AI⁠
+https://github.com/mahamehsood0-coder/SpeakWise-AI
