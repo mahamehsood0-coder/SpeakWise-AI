@@ -1,3 +1,5 @@
+## SpeakWise AI 
+
 ## Overview
 
 SpeakWise AI is an AI-powered English learning assistant designed to help learners improve their English communication skills through personalized practice, instant feedback, quizzes, and progress tracking.
@@ -94,12 +96,11 @@ Analyze the user's response carefully and provide grammar corrections, vocabular
 
 2. Install dependencies: ```bash
 npm install
-Add the required environment variable:
+3. Environment variable:
 GEMINI_API_KEY=your_api_key_here
-Start the development server:
+4. Start the development server:
 npm run dev
 
----
 
 ### 4.  GitHub repository link
 Under your Live Demo section, add:
