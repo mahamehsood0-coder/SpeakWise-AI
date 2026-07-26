@@ -95,9 +95,13 @@ Analyze the user's response carefully and provide grammar corrections, vocabular
 1. Clone the repository.
 
 2. Install dependencies:
- ```bash
+
+```bash
 npm install
-4. Environment variable:
+## Environment Variables
+
+Create a `.env` file and add:
+
 GEMINI_API_KEY=your_api_key_here
 5. Start the development server:
 npm run dev
