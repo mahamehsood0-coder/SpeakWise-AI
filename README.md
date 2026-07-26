@@ -94,15 +94,16 @@ Analyze the user's response carefully and provide grammar corrections, vocabular
 
 1. Clone the repository.
 
-2. Install dependencies: ```bash
+2. Install dependencies:
+ ```bash
 npm install
-3. Environment variable:
+4. Environment variable:
 GEMINI_API_KEY=your_api_key_here
-4. Start the development server:
+5. Start the development server:
 npm run dev
 
 
-### 4.  GitHub repository link
+
 
 ## Project Repository
 
