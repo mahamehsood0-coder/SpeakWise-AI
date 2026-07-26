@@ -1,0 +1,6 @@
+{
+  "name": "SpeakWise AI",
+  "description": "AI-powered English speaking and writing practice app for college students with instant feedback, grammar quizzes, vocabulary daily words, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

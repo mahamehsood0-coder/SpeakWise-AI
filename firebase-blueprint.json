@@ -1,0 +1,65 @@
+{
+  "entities": {
+    "users": {
+      "title": "Users",
+      "description": "User profiles and learning stats",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "displayName": { "type": "string" },
+        "email": { "type": "string" },
+        "targetGoal": { "type": "string" },
+        "targetLevel": { "type": "string" },
+        "streakDays": { "type": "number" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["uid", "email"]
+    },
+    "writing_history": {
+      "title": "Writing History",
+      "description": "User submitted writings and AI feedback analysis",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "title": { "type": "string" },
+        "text": { "type": "string" },
+        "overallScore": { "type": "number" },
+        "scores": { "type": "object" },
+        "improvedText": { "type": "string" },
+        "summary": { "type": "string" },
+        "corrections": { "type": "array" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["userId", "text", "overallScore", "createdAt"]
+    },
+    "quiz_scores": {
+      "title": "Quiz Scores",
+      "description": "User quiz attempt results",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "quizTitle": { "type": "string" },
+        "score": { "type": "number" },
+        "totalQuestions": { "type": "number" },
+        "percentage": { "type": "number" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["userId", "quizTitle", "score", "createdAt"]
+    },
+    "saved_words": {
+      "title": "Saved Words",
+      "description": "User bookmarked vocabulary words",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "word": { "type": "string" },
+        "definition": { "type": "string" },
+        "pronunciation": { "type": "string" },
+        "example": { "type": "string" },
+        "category": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["userId", "word", "definition", "createdAt"]
+    }
+  }
+}
