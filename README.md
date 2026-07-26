@@ -74,6 +74,18 @@ Analyze the user's response carefully and provide grammar corrections, vocabular
 
 ## Screenshots
 
+![Screenshot 1](./Screenshot_20260726_234550_Samsung%20Browser.jpg)
+
+![Screenshot 2](./Screenshot_20260726_234642_Samsung%20Browser.jpg)
+
+![Screenshot 3](./Screenshot_20260726_234651_Samsung%20Browser.jpg)
+
+![Screenshot 4](./Screenshot_20260726_234729_Samsung%20Browser.jpg)
+
+![Screenshot 5](./Screenshot_20260726_234738_Samsung%20Browser.jpg)
+
+![Screenshot 6](./Screenshot_20260727_001527_Samsung%20Browser.jpg)
+
 
 
 ## How to Run the Project Locally
