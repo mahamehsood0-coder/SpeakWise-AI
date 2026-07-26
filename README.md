@@ -74,27 +74,7 @@ Analyze the user's response carefully and provide grammar corrections, vocabular
 
 ## Screenshots
 
-Screenshot_20260726_234550_Samsung Browser.jpg
 
-
-
-Screenshot_20260726_234642_Samsung Browser.jpg
-
-
-
-Screenshot_20260726_234651_Samsung Browser.jpg
-
-
-
-Screenshot_20260726_234729_Samsung Browser.jpg
-
-
-
-Screenshot_20260726_234738_Samsung Browser.jpg
-
-
-
-Screenshot_20260727_001527_Samsung Browser.jpg
 
 ## How to Run the Project Locally
 
