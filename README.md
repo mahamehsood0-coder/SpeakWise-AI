@@ -103,9 +103,7 @@ npm run dev
 
 
 ### 4.  GitHub repository link
-Under your Live Demo section, add:
 
-```markdown
 ## Project Repository
 
-[GitHub Repository]
+[GitHub Repository] https://github.com/mahamehsood0-coder/SpeakWise-AI
