@@ -98,17 +98,9 @@ Analyze the user's response carefully and provide grammar corrections, vocabular
 
 ```bash
 npm install
-## Environment Variables
-
-Create a `.env` file and add:
-
+Create a .env file and add:
 GEMINI_API_KEY=your_api_key_here
-5. Start the development server:
+Start the development server:
 npm run dev
-
-
-
-
-## Project Repository
-
-[GitHub Repository] https://github.com/mahamehsood0-coder/SpeakWise-AI
+Project Repository
+https://github.com/mahamehsood0-coder/SpeakWise-AI⁠
